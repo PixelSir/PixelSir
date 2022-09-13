@@ -8,11 +8,15 @@ brings many technical challenges providing ample oppotunity to learn and improve
 
 I am keen to take on things I have not done before that are a challenge, any oppotunity to learn and do new things is a plus!
 
-## Languages and Tools
+## Languages and Tools!
+
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
+<img src="https://user-images.githubusercontent.com/33559521/189814305-5f5d40bc-97d1-4aff-89f7-007eb201b1fe.png" alt="C#">
+<img src="https://user-images.githubusercontent.com/33559521/189815182-9487eaf3-ae9e-479a-a656-27e659d5effa.png" alt="Java">
+<img src="https://user-images.githubusercontent.com/33559521/189815462-9b299299-145a-4a1b-9b37-257d947a6bb8.png" alt="Python">
+<img src="https://user-images.githubusercontent.com/33559521/189814492-263b3bce-910e-4edc-a639-fd3e6a0ae141.png" alt="Visual Studio">
+<img src="https://user-images.githubusercontent.com/33559521/189814832-7020e607-f497-4870-944c-1dc3288e9b6f.png" alt="Unity3D">
+</p>
 
 
 ## Some of my work
