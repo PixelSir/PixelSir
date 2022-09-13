@@ -1,4 +1,10 @@
-## Hi I'm Dave
+## Hi there, I'm Dave!
+
+<p align="center">
+  <a href="https://twitter.com/DaveCelticGuy">
+    <img src="https://user-images.githubusercontent.com/33559521/189816531-b3ba6f0e-c3a3-4226-9fa9-56b404abc7e6.png" alt="My Twitter">
+  </a>
+</p>
 
 I am a physics graduate and a self taught programmer (8 years experience). I am passionate about creating interesting things with programming in my spare time 
 and would love to do software development for a career.
@@ -8,8 +14,7 @@ brings many technical challenges providing ample oppotunity to learn and improve
 
 I am keen to take on things I have not done before that are a challenge, any oppotunity to learn and do new things is a plus!
 
-## Languages and Tools!
-
+## <p align="left">Languages and Tools</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/33559521/189814305-5f5d40bc-97d1-4aff-89f7-007eb201b1fe.png" alt="C#">
 <img src="https://user-images.githubusercontent.com/33559521/189815182-9487eaf3-ae9e-479a-a656-27e659d5effa.png" alt="Java">
@@ -19,5 +24,5 @@ I am keen to take on things I have not done before that are a challenge, any opp
 </p>
 
 
-## Some of my work
+## <p align="left">Showcase</p>
 //Will update when I have time.
