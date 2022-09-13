@@ -1,4 +1,4 @@
-## Hi there, I'm Dave!
+### Hi there, I'm Dave!
 
 <p align="center">
   <a href="https://twitter.com/DaveCelticGuy">
